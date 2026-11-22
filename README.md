@@ -80,6 +80,28 @@ As a member of the project team, I contributed to hardware connections, sensor i
 **Institution:** G. Narayanamma Institute of Technology and Science (GNITS)
 
 **Academic Year:** 2025–2026
+## Project Gallery
+
+### Overall Hardware Setup
+![Overall Setup](images/overall%20setup.png)
+
+### Fan Automation
+**Fan OFF**
+
+![Fan Off](images/fan%20off.png)
+
+**Fan ON**
+
+![Fan On](images/fan%20on.png)
+
+### Light Automation
+**Light OFF**
+
+![Light Off](images/light%20off.png)
+
+**Light ON**
+
+![Light On](images/light%20on.png)
 
 **Project Guide:** Mr. V. Shankar, Assistant Professor
 
