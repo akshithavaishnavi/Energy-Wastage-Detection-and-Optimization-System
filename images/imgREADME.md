@@ -1,3 +1,3 @@
 # Project Images
 
-This folder contains photographs of the hardware prototype, sensor connections, appliance control and ThingSpeak dashboard.
+This folder contains photographs of our hardware prototype and project implementation.
